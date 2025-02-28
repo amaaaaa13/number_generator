@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+A Flutter-based number generator app that generates random numbers and displays a confetti animation when three numbers are generated. Built with Bloc for state management.
 
-This project is a starting point for a Flutter application.
+🛠️ Features
 
-A few resources to get you started if this is your first Flutter project:
+🎲 Random Number Generation (1-50)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎉 Confetti Celebration Effect when 3 numbers are generated
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# demo
+ 
+ 
+ 
+https://github.com/user-attachments/assets/953a91cb-e384-4784-aef0-c7a942fc2649
